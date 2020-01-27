@@ -1,6 +1,13 @@
 # PyQt-Photo-Library
 A Photo Library using PyQt5
 
+![](media/overview.gif)
+
+# Features
+* Add Photos
+* Remove Photos
+* View Photos
+* Saves to temp file location.
 
 ## How to run manually
 Navigate to the root folder and with your virtual environemt running do the following:
