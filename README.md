@@ -10,7 +10,7 @@ A Photo Library using PyQt5
 * Saves to temp file location.
 
 ## How to run manually
-Navigate to the root folder and with your virtual environemt running do the following:
+Navigate to the root folder and with your virtual environment running do the following:
 1. `git clone https://github.com/IVIURRAY/PyQt-Photo-Library.git`
 2. `cd PyQt-Photo-Library`
 3. Create/Active your virtual env `source venv/Scripts/activate`
